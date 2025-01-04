@@ -19,7 +19,7 @@
 		// });
 
 		console.log({ email, password });
-		goto('/dashboard');
+		goto('/admin');
 	}
 </script>
 
